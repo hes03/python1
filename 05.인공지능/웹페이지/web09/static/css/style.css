@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@100..900&family=Jua&family=Poor+Story&family=Sunflower:wght@300&display=swap');
+
+#box b {
+    color:red;
+}
+#box span {
+    color:red;
+}
+
+* {
+    font-family: "Hahmlet", serif;
+}
+
+#box .modal-body{
+    color:rgb(3, 47, 3);
+}
+
+table.dataframe th, td {
+    text-align: center;
+}
+
+.title {
+    font-size: 12px;
+}
+
+#result img {
+    cursor:pointer;
+}
+
+.description{
+    cursor:pointer;
+}
